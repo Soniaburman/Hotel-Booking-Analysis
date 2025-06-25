@@ -2,8 +2,8 @@
 This project explores and visualizes hotel booking trends using Power BI. The dataset includes bookings from both city hotels and resort hotels, enabling a comparative and detailed business analysis.
 
 ## Tools & Technologies
-Power BI - for data modeling and dashboard creation
-Power Query - for data cleaning and transformation
+**Power BI** - for data modeling and dashboard creation
+**Power Query** - for data cleaning and transformation
 
 ## Key Insights from the Analysis
 - City hotels recorded significantly more bookings than resort hotels.
