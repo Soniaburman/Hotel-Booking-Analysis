@@ -2,7 +2,7 @@
 
 This project analyzes hotel booking data using Power BI to discover patterns, trends, and key business insights. The dataset includes bookings from both city and resort hotels.
 
-# 📊 Tools Used
+#### 📊 Tools Used
 - Power BI
 - Microsoft Excel (for preprocessing)
 
