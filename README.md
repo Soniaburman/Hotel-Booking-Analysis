@@ -15,8 +15,8 @@ This project explores and visualizes hotel booking trends using Power BI. The da
 
 
 ## Skills Demonstrated
-Data Cleaning and Preprocessing (Excel + Power Query)  
-DAX Calculations and Measures  
-Power BI Visualizations (KPI cards, bar charts, filters, slicers)  
+Data Cleaning and Preprocessing (Excel + Power Query),  
+DAX Calculations and Measures ,
+Power BI Visualizations (KPI cards, bar charts, filters, slicers), 
 Pattern Recognition and Business Insight Derivation
 
