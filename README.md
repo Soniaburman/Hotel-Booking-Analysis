@@ -1,23 +1,22 @@
-# Hotel-Booking-Analysis
+## Hotel Booking Analysis
+This project explores and visualizes hotel booking trends using Power BI. The dataset includes bookings from both city hotels and resort hotels, enabling a comparative and detailed business analysis.
 
-This project analyzes hotel booking data using Power BI to discover patterns, trends, and key business insights. The dataset includes bookings from both city and resort hotels.
+## Tools & Technologies
+Power BI - for data modeling and dashboard creation
+Power Query - for data cleaning and transformation
 
-#### 📊 Tools Used
-- Power BI
-- Microsoft Excel (for preprocessing)
+## Key Insights from the Analysis
+- City hotels recorded significantly more bookings than resort hotels.
+- Adults made up the largest portion of total guests.
+- Bookings made more than 30 days in advance showed a higher cancellation rate.
+- Revenue peaked in August, indicating a seasonal trend.
+- Project Files
 
-# Key Insights
-- City hotels have a higher number of bookings compared to resort hotels.
-- Adults constituted the majority of the total bookings.
-- Customers who booked more than 30 days in advance had a hiegher cancellation rate.
-- Revenue peaked in August.
 
-# Project Files
-- Hotel_Booking_Analysis.pbix - Power BI Dashboard
-- Dashboard_Screenshot.png - Image of final report
 
-# Skills Applied
-- Data Cleaning
-- DAX Measures
-- Power BI Visuals (Bar Chart, Slicer, KPI, etc.)
-- Data Analysis
+## Skills Demonstrated
+Data Cleaning and Preprocessing (Excel + Power Query)
+DAX Calculations and Measures
+Power BI Visualizations (KPI cards, bar charts, filters, slicers)
+Pattern Recognition and Business Insight Derivation
+
